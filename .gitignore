@@ -1,0 +1,80 @@
+# =========================
+# Python
+# =========================
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+.eggs/
+
+# =========================
+# Virtual environments
+# =========================
+.venv/
+venv/
+ENV/
+env/
+
+# =========================
+# Environment variables
+# =========================
+.env
+.env.*
+*.env
+
+# =========================
+# Logs & outputs
+# =========================
+logs/
+output/
+reports/
+results/
+*.log
+
+# =========================
+# Sample / runtime data
+# =========================
+data/raw/
+data/runtime/
+*.pcap
+*.pcapng
+
+# =========================
+# Security-sensitive files
+# =========================
+*.key
+*.pem
+*.crt
+secrets.*
+secret.*
+tokens.*
+credentials.*
+
+# =========================
+# OS / Editor
+# =========================
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# =========================
+# Testing / coverage
+# =========================
+.coverage
+htmlcov/
+.pytest_cache/
+
+# =========================
+# Packaging / build
+# =========================
+dist/
+build/
+
+# =========================
+# Misc
+# =========================
+*.tmp
+*.bak
+*.swp
