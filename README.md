@@ -31,6 +31,12 @@ It does not include malware, command-and-control, or offensive exploitation tech
 
 ---
 
+## 🧩 Requirements
+- 🐍 Python 3.11
+- 📦 Dependencies listed in `requirements.txt`
+
+---
+
 ## 📜 License
 
 MIT License

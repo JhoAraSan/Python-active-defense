@@ -1,0 +1,12 @@
+{
+  "description": "Keywords used for log-based detection",
+  "keywords": [
+    "failed",
+    "denied",
+    "unauthorized",
+    "invalid",
+    "forbidden",
+    "error"
+  ],
+  "alert_message": "Suspicious activity detected based on keyword matching"
+}
